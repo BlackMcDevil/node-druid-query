@@ -10,10 +10,10 @@
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/7eggs/node-druid-query.git"
+    "url": "https://github.com/BlackMcDevil/node-druid-query.git"
   },
   "bugs": {
-    "url": "https://github.com/7eggs/node-druid-query/issues"
+    "url": "https://github.com/BlackMcDevil/node-druid-query/issues"
   },
   "dependencies": {
     "custom-error-generator": "^7.0.0",
